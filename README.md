@@ -9,7 +9,7 @@ Aplikasi ini menyediakan sistem manajemen data berbasis web dengan fitur autenti
 ### Dashboard
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard Web TK Asy-Syifa" width="850">
+  <img src="screenshoots/dashboard.png" alt="Dashboard Web TK Asy-Syifa" width="850">
 </p>
 
 Dashboard memberikan tampilan ringkasan dan akses cepat terhadap fitur-fitur utama sistem.
@@ -17,26 +17,26 @@ Dashboard memberikan tampilan ringkasan dan akses cepat terhadap fitur-fitur uta
 ### Login
 
 <p align="center">
-  <img src="screenshots/login.png" alt="Login Page" width="850">
+  <img src="screenshoots/login.png" alt="Login Page" width="850">
 </p>
 
 Sistem menyediakan autentikasi pengguna sebelum pengguna dapat mengakses fitur sesuai dengan hak akses yang dimiliki.
 
-### Data Management
+### Fitur Pendaftaran
 
 <p align="center">
-  <img src="screenshots/data-management.png" alt="Data Management" width="850">
+  <img src="screenshoots/pendaftaran.png" alt="Data Management" width="850">
 </p>
 
-Pengguna dapat melakukan pengelolaan data melalui fitur CRUD yang tersedia pada sistem.
+Pengguna dapat melakukan pendaftaran siswa baru melalui fitur CRUD yang tersedia pada sistem.
 
-### Import and Export Data
+### Landing Page
 
 <p align="center">
-  <img src="screenshots/import-export.png" alt="Import Export Data" width="850">
+  <img src="screenshoots/landing-page.png" alt="Import Export Data" width="850">
 </p>
 
-Sistem mendukung proses import dan export data untuk mempermudah pengelolaan dan administrasi informasi.
+Sistem mempunyai landing page untuk menampilkan informasi pada pengguna tanpa harus melakukan login terlebih dahulu.
 
 ## ✨ Features
 
